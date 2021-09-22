@@ -7,3 +7,4 @@ Idée :
 Téléphones : 
  - Guillaume, Honor View 10
  - Yassine, Xiaomi Mi T10
+ - Oussama, Samsung Galaxy j5 2016
